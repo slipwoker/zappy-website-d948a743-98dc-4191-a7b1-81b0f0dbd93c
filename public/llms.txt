@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות נעליים שמשנה את הדרך שבה את הולכת בעולם. נעליים אופנתיות לנשים בתל אביב, סניקרס מעצבים לגברים ומותגים איכותיים ידידותיים לסביבה. הגיע הזמן לצעוד בסטייל!
+
+### אודות
+https://example.com/about
+משה נעליים נולדה מתוך אהבה אמיתית לאופנה ולנוחות. גלה את הערכים שמניעים אותנו, את המחויבות שלנו לאיכות ולנעליים ידידותיות לסביבה, ולמה אלפי לקוחות בוחרים בנו שוב ושוב.
+
+### לוקבוק
+https://example.com/lookbook
+לוקבוק הנעליים של משה נעליים הוא חגיגה של עיצוב, צבע וסטייל. גלי השראה לנעליים אופנתיות לנשים בתל אביב, סניקרס מעצבים לגברים וקולקציות עונתיות שיגרמו לך לרצות הכל.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על מידה, זמינות או משלוח? צוות משה נעליים כאן בשבילך! צרי קשר עוד היום ונעזור לך למצוא את הנעל המושלמת מתוך מגוון חנות הנעליים האיכותית שלנו. תענה מהירה מובטחת.
+
+### Products
+https://example.com/products
+המוצרים שלנו - משה נעליים
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - משה נעליים
+
+### Category
+https://example.com/category/:slug
+מוצרים - משה נעליים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
